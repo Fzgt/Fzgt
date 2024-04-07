@@ -1,4 +1,4 @@
-<img src="https://ssr-contributions-svg.vercel.app/_/Fzgt?chart=3dbar&gap=0.6&scale=2&flatten=0&animation=fadeIn&format=svg&weeks=30&theme=cyan" width="100%"/>
+<img src="https://ssr-contributions-svg.vercel.app/_/Fzgt?chart=3dbar&gap=0.6&scale=2&flatten=0&animation=fadeIn&format=svg&weeks=30&theme=cyan" width="100%" height="300"/>
 
 ### Hi there, I'm Fzgt 👋
 <pre>
@@ -27,8 +27,8 @@ The calmness that comes easily is the result of accumulated experience.
 ![Visual Studio Code](https://img.shields.io/badge/VS%20CODE-007ACC?logo=VisualStudioCode&logoColor=fff)
 
 
-**GitHub Stats:**
+<!-- **GitHub Stats:**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fzgt&layout=compact&theme=react&show_icons=true&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fzgt&layout=compact&theme=react&show_icons=true&hide_border=true) -->
 
 <!-- ![Fzgt's github stats](https://github-readme-stats.vercel.app/api?username=Fzgt&show_icons=true&hide_title=true&count_private=true) -->
