@@ -30,7 +30,7 @@ The calmness that comes easily is the result of accumulated experience.
 <!-- <h2 align="left">🏆 Tools' Stats</h2> -->
 **GitHub Stats:**
 <div style="width: 100%; display: flex; justify-content: center; align-items: center;"> 
-    <img style="display: block; margin-right: 20px;" src="./assets/pokemon.gif" width="400" height="400" /> 
+    <img style="display: block; margin-right: 20px;" src="./assets/pokemon.gif" width="400" height="300" /> 
     <img style="display: block;" width="400px" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fzgt&theme=react&show_icons=true&hide_border=true&layout=compact" /> 
 </div>
 
