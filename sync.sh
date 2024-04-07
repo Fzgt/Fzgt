@@ -1,3 +1,3 @@
 git add .
-git commit --amend
+git commit -m 'update'
 git push origin main --force
