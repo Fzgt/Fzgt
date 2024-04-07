@@ -27,6 +27,7 @@ The calmness that comes easily is the result of accumulated experience.
 ![Visual Studio Code](https://img.shields.io/badge/VS%20CODE-007ACC?logo=VisualStudioCode&logoColor=fff)
 
 
+**GitHub Stats:**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fzgt&layout=compact&theme=react&show_icons=true&hide_border=true)
 
