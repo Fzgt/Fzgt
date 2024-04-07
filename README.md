@@ -29,10 +29,6 @@ The calmness that comes easily is the result of accumulated experience.
 
 <!-- <h2 align="left">🏆 Tools' Stats</h2> -->
 **GitHub Stats:**
-<img width="80%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fzgt&theme=react&show_icons=true&hide_border=true&layout=compact" /> 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fzgt&layout=compact)
 
-
-
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fzgt&layout=compact) -->
-
-<!-- ![Fzgt's github stats](https://github-readme-stats.vercel.app/api?username=Fzgt&show_icons=true&hide_title=true&count_private=true) -->
+![Fzgt's github stats](https://github-readme-stats.vercel.app/api?username=Fzgt&show_icons=true&hide_title=true&count_private=true)
