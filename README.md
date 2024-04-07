@@ -1,4 +1,4 @@
-<img src="https://ssr-contributions-svg.vercel.app/_/Fzgt?chart=3dbar&gap=0.6&scale=6&flatten=0&animation=fadeIn&format=svg&weeks=30&theme=cyan" width="100%" height="300"/>
+<img src="https://ssr-contributions-svg.vercel.app/_/Fzgt?chart=3dbar&gap=0.6&scale=3&flatten=0&animation=fadeIn&format=svg&weeks=30&theme=cyan" width="100%" height="300"/>
 
 ### Hi there, I'm Fzgt 👋
 <pre>
