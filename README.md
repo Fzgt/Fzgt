@@ -1,4 +1,4 @@
-<img src="https://ssr-contributions-svg.vercel.app/_/Fzgt?chart=3dbar&gap=0.6&scale=2&flatten=0&animation=fadeIn&format=svg&weeks=30&theme=cyan" width="100%"/>
+<img src="https://ssr-contributions-svg.vercel.app/_/Fzgt?chart=3dbar&gap=0.6&scale=2&flatten=0&animation=fadeIn&format=svg&weeks=30&theme=pink" width="100%"/>
 
 ### Hi there, I'm Fzgt 👋
 <pre>
@@ -29,9 +29,9 @@ The calmness that comes easily is the result of accumulated experience.
 
 <!-- <h2 align="left">🏆 Tools' Stats</h2> -->
 **GitHub Stats:**
-<div style="width: 100%; display: flex; justify-content: space-around; align-items: center;">
-    <img style="display: block;" width="400px" height = "300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fzgt&theme=react&show_icons=true&hide_border=true&layout=compact" />
+<div style="width: 100%; display: flex; justify-content: space-between; align-items: center;">
     <img style="display: block;" src="./assets/pokemon.gif" width="300" height="200" />
+    <img style="display: block;" width="400px" height = "300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fzgt&theme=react&show_icons=true&hide_border=true&layout=compact" />
 </div>
 
 
