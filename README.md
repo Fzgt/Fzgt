@@ -7,7 +7,7 @@ The calmness that comes easily is the result of accumulated experience.
 
 - 🏖 Currently study as a postgraduate at the University of Adelaide.
 - 🌱 Worked in Baidu, BioMap with 2 years of experience specializing in front-end.
-- 🏗 Focusing on front-end infrastructure and CI/CD.
+- 🏗 Focusing on Web Infra, CI/CD, DevOps, Perf Opt.
 - 💬 WeChat: scy35269935
 
 **Languages:**
