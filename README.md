@@ -5,7 +5,7 @@
 The calmness that comes easily is the result of accumulated experience.
 </pre>
 
-- 🏖 Currently study as a postgraduate at the University of Adelaide.
+- 🏖 Currently study as a postgraduate at the UTS.
 - 🌱 Worked in Baidu, BioMap, BeyzAI with 3 years of experience specializing in front-end.
 - 🏗 Focusing on Web Infra, CI/CD, DevOps, Web Perf Opt.
 - 💬 WeChat: scy35269935
