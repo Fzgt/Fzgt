@@ -10,7 +10,7 @@ The calmness that comes easily is the result of accumulated experience.
 - 🏗 Focusing on Web Infra, CI/CD, DevOps, Web Perf Opt.
 - 💬 Email: fzgt320@gmail.com
 
-<p><strong>Web Developer</strong></p>
+<p><strong>Tech Stack</strong></p>
 <p>
   <img alt="Vue 3" src="https://img.shields.io/badge/-Vue-5BA17F?style=flat-square&logo=vue.js&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
