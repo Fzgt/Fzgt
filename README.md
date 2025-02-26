@@ -7,7 +7,7 @@ The calmness that comes easily is the result of accumulated experience.
 
 - 🏖 Currently study as a postgraduate at the UTS.
 - 🌱 Worked in Baidu, BioMap, BeyzAI with 3 years of experience specializing in front-end.
-- 🏗 Focusing on Web Infra, CI/CD, DevOps, Web Perf Opt.
+- 🏗 Focusing on Web Infra, CI/CD, Web Perf Opt.
 - 💬 Email: fzgt320@gmail.com
 
 <p><strong>Tech Stack</strong></p>
