@@ -6,6 +6,7 @@ The calmness that comes easily is the result of accumulated experience.
 </pre>
 
 - 🏖 Currently study as a postgraduate at UTS.
+- 🌱 Worked in Baidu, BioMap, specializing in front-end.
 - 🏗 Focusing on Web Infra, CI/CD, Web Perf Opt.
 - 🌂 Interested in Web3, CG, NodeJS, WebAI.
 - 💬 WeChat: scy35269935
@@ -41,7 +42,7 @@ The calmness that comes easily is the result of accumulated experience.
 
 
 <!--
-- 🌱 Worked in Baidu, BioMap, BeyzAI with 3 years of experience specializing in front-end.
+
 
 **Languages:**
 
