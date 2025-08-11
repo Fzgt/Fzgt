@@ -5,7 +5,7 @@
 The calmness that comes easily is the result of accumulated experience.
 </pre>
 
-- 🌱 Worked in Baidu, BioMap, specializing in front-end. Currently studying as a postgraduate at UTS.
+- 🌱 Worked in Baidu, BioMap, specializing in front-end. Postgrad @ UTS.
 - 🏗 Focusing on JS/TS, React, Frontend Engineering, Web Perf Opt.
 - 🌂 Interested in Web3, Computer Graphics, NodeJS, WebAI.
 - 💬 WeChat: scy35269935
